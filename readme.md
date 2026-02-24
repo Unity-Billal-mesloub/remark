@@ -367,7 +367,7 @@ add a `remarkConfig` to your `package.json` to configure remark:
   "remarkConfig": {
     "settings": {
       "bullet": "*", // Use `*` for list item bullets (default)
-      // See <https://github.com/remarkjs/remark/tree/main/packages/remark-stringify> for more options.
+      // See <https://github.com/Unity-Billal-mesloub/remark/tree/main/packages/remark-stringify> for more options.
     },
     "plugins": [
       "remark-preset-lint-consistent", // Check that markdown is consistent.
@@ -599,9 +599,9 @@ Support this effort and give back by sponsoring on [OpenCollective][]!
 
 <!-- Definitions -->
 
-[badge-build-image]: https://github.com/remarkjs/remark/workflows/main/badge.svg
+[badge-build-image]: https://github.com/Unity-Billal-mesloub/remark/workflows/main/badge.svg
 
-[badge-build-url]: https://github.com/remarkjs/remark/actions
+[badge-build-url]: https://github.com/Unity-Billal-mesloub/remark/actions
 
 [badge-coverage-image]: https://img.shields.io/codecov/c/github/remarkjs/remark.svg
 
@@ -621,51 +621,25 @@ Support this effort and give back by sponsoring on [OpenCollective][]!
 
 [file-logo]: https://raw.githubusercontent.com/remarkjs/remark/1f338e72/logo.svg?sanitize=true
 
-[github-awesome-remark]: https://github.com/remarkjs/awesome-remark
+[github-awesome-remark]: https://github.com/Unity-Billal-mesloub/awesome-remark  
 
-[github-mdast]: https://github.com/syntax-tree/mdast
+[github-remark-cli]: https://github.com/Unity-Billal-mesloub/remark/tree/main/packages/remark-cli
 
-[github-mdast-util-from-markdown]: https://github.com/syntax-tree/mdast-util-from-markdown
+[github-remark-core]: https://github.com/Unity-Billal-mesloub/remark/tree/main/packages/remark  
 
-[github-mdast-util-to-markdown]: https://github.com/syntax-tree/mdast-util-to-markdown
-
-[github-micromark]: https://github.com/micromark/micromark
-
-[github-rehype]: https://github.com/rehypejs/rehype
-
-[github-rehype-sanitize]: https://github.com/rehypejs/rehype-sanitize
-
-[github-remark-cli]: https://github.com/remarkjs/remark/tree/main/packages/remark-cli
-
-[github-remark-core]: https://github.com/remarkjs/remark/tree/main/packages/remark
-
-[github-remark-gfm]: https://github.com/remarkjs/remark-gfm
-
-[github-remark-lint]: https://github.com/remarkjs/remark-lint
-
-[github-remark-parse]: https://github.com/remarkjs/remark/tree/main/packages/remark-parse
-
-[github-remark-rehype]: https://github.com/remarkjs/remark-rehype
+[github-remark-parse]: https://github.com/Unity-Billal-mesloub/remark/tree/main/packages/remark-parse
 
 [github-remark-stringify]: packages/remark-stringify/
 
-[github-remark-toc]: https://github.com/remarkjs/remark-toc
-
 [github-topic-remark-plugin]: https://github.com/topics/remark-plugin
 
-[github-types-mdast]: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mdast
+[health-coc]: https://github.com/Unity-Billal-mesloub/.github/blob/main/code-of-conduct.md
 
-[github-unified]: https://github.com/unifiedjs/unified
+[health-contributing]: https://github.com/Unity-Billal-mesloub/.github/blob/main/contributing.md
 
-[health]: https://github.com/remarkjs/.github
+[health-security]: https://github.com/Unity-Billal-mesloub/.github/blob/main/security.md
 
-[health-coc]: https://github.com/remarkjs/.github/blob/main/code-of-conduct.md
-
-[health-contributing]: https://github.com/remarkjs/.github/blob/main/contributing.md
-
-[health-security]: https://github.com/remarkjs/.github/blob/main/security.md
-
-[health-support]: https://github.com/remarkjs/.github/blob/main/support.md
+[health-support]: https://github.com/Unity-Billal-mesloub/.github/blob/main/support.md
 
 [opencollective]: https://opencollective.com/unified
 
